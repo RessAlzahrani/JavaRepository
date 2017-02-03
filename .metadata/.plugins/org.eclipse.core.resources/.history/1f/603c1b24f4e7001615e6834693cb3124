@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package question5;
+import javax.swing.JOptionPane;
+/**
+ * @author RA316282
+ *
+ */
+public class NauticalMilesInteractive {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String Answers;
+		String numberOfKilometers;
+		int numberOfMiles; 
+		int numberOfNauticalMiles;
+		
+		numberOfKilometers = 
+		Answers = JOptionPane.showInputDialog(null, "Enter the number of Nautical Miles you want to convert ", JOptionPane.QUESTION_MESSAGE);
+		
+		
+
+	}
+
+}

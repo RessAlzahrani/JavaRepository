@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package question7;
+
+import javax.swing.JOptionPane;
+
+/**
+ * @author ra316282
+ *
+ */
+public class Initials {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char R;
+		char initial1 = R;
+		char A;
+		char initial2 = A;
+		char initial3 = A;
+        
+		JOptionPane.showMessageDialog(null, initia1 + "." + initial2 + "." + initial3 + ".");
+	}
+
+}

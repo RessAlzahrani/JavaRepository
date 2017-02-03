@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package question5;
+
+/**
+ * @author RA316282
+ *
+ */
+public class NauticalMiles {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double numberOfKilometers  = 1.852;
+		double numberOfMiles = 1.150779;
+		int numberOfNauticalMiles;
+		
+		
+
+	}
+
+}
